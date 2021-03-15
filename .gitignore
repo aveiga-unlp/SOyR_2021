@@ -1,2 +1,4 @@
-*.o
-punto_flotante
+*
+!00_Enteros.c
+!00_Punto_Flotante.c
+
