@@ -1,4 +1,4 @@
-// Punto flotante
+// Punto flotante 2021
 
 // a) Intente predecir la salida
 // b) Compile y verifique
@@ -27,5 +27,3 @@ void main() {
     printf("x = %.9f %d 0x%08X %s %2X %2X\n", x, y, y, p, p[0], p[1]);
 
 }
-
-
