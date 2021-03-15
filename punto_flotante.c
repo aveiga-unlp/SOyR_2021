@@ -28,6 +28,6 @@ void main() {
 //                Seeeeeeeemmmmmmmmmmmmmmmmmmmmmmm
 //             = -11.0010010000111111011011  (sólo 25 dígitos de resolución)
 //
-// Corolario: La representación simbólica no tiene error y
-// ocupa sólo 3 bytes ASCII   :-)
+// Corolario:   La representación simbólica no tiene error
+//              Y ocupa sólo 3 bytes ASCII   :-)
 //
