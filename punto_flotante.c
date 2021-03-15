@@ -1,6 +1,6 @@
 // Representación en punto flotante
 // A. Veiga, SOyR 2021
- 
+
 // a) Intente predecir la salida
 // b) Compile y verifique que su predicción sea correcta
 // c) Calcule el error en la representación (double mejora?)
