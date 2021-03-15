@@ -22,11 +22,12 @@ void main() {
 
 }
 
-
+//
 // Solución: -pi
 // 0xC0490FDB = 0b11000000010010010000111111011011  little endian
 //                Seeeeeeeemmmmmmmmmmmmmmmmmmmmmmm
 //             = -11.0010010000111111011011  (sólo 25 dígitos de resolución)
-
+//
 // Corolario: La representación simbólica no tiene error y
 // ocupa sólo 3 bytes ASCII   :-)
+//
